@@ -65,7 +65,8 @@ Namma Yatri seeks to optimise its operations and gain deeper insights into ride 
 
 * Enabled management to view driver earnings, trip completion, passenger distribution, and time-based demand.
 
-* <img width="1176" height="660" alt="image" src="https://github.com/user-attachments/assets/f6542c65-9808-4beb-9fc3-2631c19409cc" />
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/d464caca-cc0b-408c-990e-2bad2c00c6d6" />
+
 <img width="844" height="525" alt="image" src="https://github.com/user-attachments/assets/04f5cc14-654f-4dbd-b5db-f1b5c6425654" />
 
 
