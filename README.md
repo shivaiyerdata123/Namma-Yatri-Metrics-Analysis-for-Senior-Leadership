@@ -65,8 +65,16 @@ Namma Yatri seeks to optimise its operations and gain deeper insights into ride 
 
 * Enabled management to view driver earnings, trip completion, passenger distribution, and time-based demand.
 
+* <img width="1176" height="660" alt="image" src="https://github.com/user-attachments/assets/f6542c65-9808-4beb-9fc3-2631c19409cc" />
+<img width="844" height="525" alt="image" src="https://github.com/user-attachments/assets/04f5cc14-654f-4dbd-b5db-f1b5c6425654" />
+
+
+
 **Insights & Recommendations**
 
 * Synthesized findings into operational strategies (fleet optimization, pricing, marketing campaigns).
 
 * Proposed measurable KPIs (cancellation rate, demand-supply ratio, driver utilization, on-time completion).
+
+* <img width="823" height="594" alt="image" src="https://github.com/user-attachments/assets/f664ed8f-747c-44b7-b2dc-3b19d834fa72" />
+
